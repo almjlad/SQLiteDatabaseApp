@@ -1,4 +1,5 @@
 # SQLiteDatabaseApp
+مثال على استخدام قاعدة البيانات SQLite في تطبيق لهواتف الاندرويد: 
 Android Studio SQLite Database (Select, Insert, Update, Delete)
 
 email: bndr.almjlad@gmail.com
